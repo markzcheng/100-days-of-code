@@ -28,7 +28,63 @@
 2. [Filler](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 ***
 
-### Day 1: October 10th, Monday
+### Day X: Month Day, Day of Week
+
+**Today's Progress**: Filler
+
+**Thoughts** Filler
+
+**Tomorrow's Plan:** Filler
+
+**Helpful Pages:** Filler
+
+**Link(s) to work**
+1. [Filler]
+***
+
+### Day X: Month Day, Day of Week
+
+**Today's Progress**: Filler
+
+**Thoughts** Filler
+
+**Tomorrow's Plan:** Filler
+
+**Helpful Pages:** Filler
+
+**Link(s) to work**
+1. [Filler]
+***
+
+### Day X: Month Day, Day of Week
+
+**Today's Progress**: Filler
+
+**Thoughts** Filler
+
+**Tomorrow's Plan:** Filler
+
+**Helpful Pages:** Filler
+
+**Link(s) to work**
+1. [Filler]
+***
+
+### Day X: Month Day, Day of Week
+
+**Today's Progress**: Filler
+
+**Thoughts** Filler
+
+**Tomorrow's Plan:** Filler
+
+**Helpful Pages:** Filler
+
+**Link(s) to work**
+1. [Filler]
+***
+
+### Day X: Month Day, Day of Week
 
 **Today's Progress**: Filler
 
